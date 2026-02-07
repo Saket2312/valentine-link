@@ -1,2 +1,11 @@
-# valentine-link
-# 💝 Valentine’s Surprise  This is a small Valentine’s Day surprise made with love ❤️    Open the link, turn the sound on, and enjoy a little interactive moment.   Best experienced on a phone or laptop with audio enabled!!  Happy Valentine’s Day 💘
+# 💖 Happy Valentine’s Day
+
+This is a small interactive Valentine’s Day surprise made with love ❤️  
+
+👉 **Open the Valentine surprise here:**  
+🌐 https://YOUR-USERNAME.github.io/valentine-link/
+
+(Please tap/click once to start the music 🎵)
+
+Best experienced on a phone or laptop with sound on 💘  
+Enjoy the little moment 😊
